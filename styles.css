@@ -1,0 +1,12 @@
+.cv {
+    margin-top: 4rem;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: grey;
+}
